@@ -2,3 +2,22 @@ body {
  background:#EFEED9; 
  color: #e13e3e; 
 }
+.cabecalho-imagem{
+    width: 30%;
+}
+.cabecalho { 
+    background-color: #e13e3e;
+    color: #EFEED9;
+    display:flex;
+    justify-content:space-around ;
+    padding: 24px 0;
+}
+.cabecalho-lista-item {
+    display: inline-block;
+    margin: 0 16px;
+}
+* {
+    margin: 0 16px;
+    padding: 24px 0;
+   
+}
